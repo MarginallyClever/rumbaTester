@@ -1,6 +1,7 @@
 //-----------------------------------------------------------
 // Marginally Clever RUMBA test suite
 // If your board doesn't pass these tests we don't want you.
+// see wiring.jpg
 // 2017-04-27 dan@marginallyclever.com 
 //-----------------------------------------------------------
 
